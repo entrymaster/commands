@@ -1,4 +1,4 @@
 # commands
 
 ## React Native TypeScript Template
-npx react-native init rnanimations --template react-native-template-typescript
+npx react-native init myapp --template react-native-template-typescript
